@@ -1,4 +1,4 @@
-# CSStipendRankings: PhD Stipend Rankings
+# PhysStipendRankings: PhD Stipend Rankings
 
 [`PhysStipendRankings` (https://physstipendrankings.org)](https://physstipendrankings.org) is a stipend-based ranking of top-paying Physics departments in the United States, inspired by [`CSRankings`](https://csrankings.org). We may expand to include other countries in the future, and we welcome your contributions!
 
