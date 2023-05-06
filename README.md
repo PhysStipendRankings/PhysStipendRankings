@@ -1,17 +1,17 @@
 # CSStipendRankings: PhD Stipend Rankings
 
-[`CSStipendRankings` (https://csstipendrankings.org)](https://csstipendrankings.org) is a stipend-based ranking of top-paying computer science departments in the United States, inspired by [`CSRankings`](https://csrankings.org). We may expand to include other countries in the future, and we welcome your contributions!
+[`PhysStipendRankings` (https://physstipendrankings.org)](https://physstipendrankings.org) is a stipend-based ranking of top-paying Physics departments in the United States, inspired by [`CSRankings`](https://csrankings.org). We may expand to include other countries in the future, and we welcome your contributions!
 
-**We hope you find CSStipendRankings useful towards getting your institution to pay a living wage.**
+**We hope you find PhysStipendRankings useful towards getting your institution to pay a living wage.**
 
 ## How to contribute
 
-**First of all, thank you for your interest in contributing to CSStipendRankings! We welcome contributions from everyone.** Please take a moment to review this document in order to make the contribution process easy and effective for everyone involved.
+**First of all, thank you for your interest in contributing to PhysStipendRankings! We welcome contributions from everyone.** Please take a moment to review this document in order to make the contribution process easy and effective for everyone involved.
 
 ### Add stipend for a new institution
 
 #### Option 1
-The fastest way to add or update the data is by [editing `stipend-us.csv`](https://github.com/CSStipendRankings/CSStipendRankings/edit/main/stipend-us.csv) and submit a [pull request](https://github.com/CSStipendRankings/CSStipendRankings/pulls). The stipend data are stored as rows in `stipend-us.csv` in the format of 
+The fastest way to add or update the data is by [editing `stipend-us.csv`](https://github.com/PhysStipendRankings/PhysStipendRankings/edit/main/stipend-us.csv) and submit a [pull request](https://github.com/PhysStipendRankings/PhysStipendRankings/pulls). The stipend data are stored as rows in `stipend-us.csv` in the format of 
 
 > ```"<Institution Name (Optional Notes)>", <Annual Stipend Amount (Pre-Qualification) ($)>, <Annual Stipend Amount (Post-Qualification) ($)>,<Annual Local Living Wage ($)>, <Annual Out-of-pocket Fees (and Health Insurance) Charged by University ($)>, <Public or Private>, <Summer Funding Guarantee>```
 
@@ -26,7 +26,7 @@ Please quote the institution name with `"` if the name contains `,` in it (e.g.,
 MIT Living Wage Calculator. We will review your pull request and merge it if everything looks good.
 
 #### Option 2
-Alternatively, you can also [submit this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdKIAu98jSzpw97Ojec2jpEUWI4QH75Ig-5Ccz33fQwLl783w/viewform) or [create an issue](https://github.com/CSStipendRankings/CSStipendRankings/issues/new/choose) with the above information and we will add the data for you.
+Alternatively, you can also [submit this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdKIAu98jSzpw97Ojec2jpEUWI4QH75Ig-5Ccz33fQwLl783w/viewform) or [create an issue](https://github.com/PhysStipendRankings/PhysStipendRankings/issues/new/choose) with the above information and we will add the data for you.
 
 ### Update Website Content
 
